@@ -54,7 +54,7 @@ One of my biggest creative interests is **fantasy writing**.
 
 I'm currently writing my own fantasy novel, combining storytelling, worldbuilding, character development, and visual design into one creative project.
 
-![Book cover](book-cover.jpg)
+![Book cover](book-cover.png)
 
 ### My Fantasy Novel
 
