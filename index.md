@@ -17,6 +17,10 @@ One of my biggest passions outside of programming is **fantasy writing**.
 
 Writing is one of my most important creative projects, and I enjoy developing worlds, characters, stories, and visual identities.
 
+<table>
+<tr>
+<td>
+
 ### Bloodied Feather
 
 <img src="book-cover.png" alt="Bloodied Feather" style="width: 200px; height: auto;">
@@ -25,7 +29,11 @@ Writing is one of my most important creative projects, and I enjoy developing wo
 
 My completed fantasy novel.
 
-[Read the book →](https://books2read.com/b/bloodied-feather)
+<a href="https://books2read.com/b/bloodied-feather" target="_blank">Read the book →</a>
+
+</td>
+
+<td>
 
 ### Scorched Bone
 
@@ -33,7 +41,11 @@ My completed fantasy novel.
 
 **Coming soon**
 
-The sequel to *Bloodied Feather*.
+The sequel to <em>Bloodied Feather</em>.
+
+</td>
+</tr>
+</table>
 
 ---
 
