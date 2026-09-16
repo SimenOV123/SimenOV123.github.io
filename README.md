@@ -2,7 +2,7 @@
 
 This repository contains my personal portfolio website.
 
-Visit the portfolio: [your website link](YOUR-GITHUB-PAGES-LINK)
+Visit the portfolio: [your website link](https://simenov123.github.io/)
 
 ## About
 
