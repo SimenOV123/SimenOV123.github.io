@@ -11,38 +11,21 @@ I enjoy turning ideas into things people can experience — whether that's a gam
 
 ---
 
-<h2>📖 Writing &amp; Creative Work</h2>
+## 📖 Writing & Creative Work
 
-<p>
-    One of my biggest passions outside of programming is <strong>fantasy writing</strong>.
-</p>
+One of my biggest passions outside of programming is **fantasy writing**.
 
-<p>
-    Writing is one of my most important creative projects, and I enjoy
-    developing worlds, characters, stories, and visual identities.
-</p>
+Writing is one of my most important creative projects, and I enjoy developing worlds, characters, stories, and visual identities.
 
-<div>
+<img src="book-cover.png" alt="Bloodied Feather" style="width: 200px; height: auto;">
 
-    <img src="book-cover.png" alt="Bloodied Feather" style="width: 200px; height: auto;">
+### Bloodied Feather
 
-    <h3>Bloodied Feather</h3>
+**Available now**
 
-    <p>
-        <strong>Available now</strong>
-    </p>
+My completed fantasy novel.
 
-    <p>
-        My completed fantasy novel.
-    </p>
-
-    <p>
-        <a href="https://books2read.com/b/bloodied-feather" target="_blank">
-            Read the book →
-        </a>
-    </p>
-
-</div>
+[Read the book →](https://books2read.com/b/bloodied-feather)
 
 ---
 
