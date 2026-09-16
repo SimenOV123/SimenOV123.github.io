@@ -27,7 +27,7 @@ My completed fantasy novel.
 
 [Read the book →](https://books2read.com/b/bloodied-feather)
 
-### Bloodied Feather — Book 2
+### Scorched Bone
 
 <img src="closer.png" alt="Bloodied Feather sequel" style="width: 200px; height: auto;">
 
