@@ -12,7 +12,7 @@ A short description of what this project does and what you learned from building
 
 **Tech:** Python, JavaScript
 
-[View on GitHub](https://github.com/yourusername/project-one)
+[View on GitHub](https://github.com/simenov123/project-one)
 
 ### Project Two
 
@@ -20,7 +20,7 @@ A short description of another project.
 
 **Tech:** C#, .NET
 
-[View on GitHub](https://github.com/yourusername/project-two)
+[View on GitHub](https://github.com/simenov123/project-two)
 
 ## Skills
 
