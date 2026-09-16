@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Hi, I'm Simen 👋
 
 I'm a developer and creative based in Norway, with a background in **game development, programming, video editing, and creative writing**.
