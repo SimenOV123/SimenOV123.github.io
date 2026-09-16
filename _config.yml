@@ -1,6 +1,19 @@
 theme: jekyll-theme-minimal
 
-title: Simen | Developer Portfolio
-description: Developer, game creator, and fantasy author.
+title: "Simen | Developer & Creative"
+description: "A portfolio of my game development, programming, video work, and fantasy writing."
 
 show_downloads: false
+
+author:
+  name: "Simen"
+
+# Optional: profile picture shown by the Minimal theme
+# logo: /book-cover.jpg
+
+# Keep URLs clean
+url: ""
+baseurl: ""
+
+# Build settings
+markdown: kramdown
