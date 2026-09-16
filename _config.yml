@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
-title: Simen's homepage
-description: Bookmark this to keep an eye on my project updates!
+
+title: Simen | Developer Portfolio
+description: Projects, experiments, and things I'm building.
+
+logo: /assets/img/profile.png
+
+show_downloads: false
