@@ -13,45 +13,24 @@ I enjoy turning ideas into things people can experience — whether that's a gam
 
 ## 📖 Writing & Creative Work
 
-<h2>📖 Writing &amp; Creative Work</h2>
+One of my biggest passions outside of programming is **fantasy writing**.
 
-<p>
-    One of my biggest passions outside of programming is <strong>fantasy writing</strong>.
-</p>
+I'm currently working on my own fantasy novel, developing its world, characters, story, and visual identity.
 
-<p>
-    I'm currently working on my own fantasy novel, developing its world,
-    characters, story, and visual identity.
-</p>
+<img src="book-cover.png" alt="Book cover" style="width: 200px; height: auto;">
 
-<div class="book-section">
+### My Fantasy Novel
 
-    <img src="book-cover.png" alt="Book cover" class="book-cover">
+A personal project combining:
 
-    <div class="book-description">
+- ✍️ Creative writing
+- 🌎 Worldbuilding
+- 🧙 Character development
+- 🎨 Visual design
+- 📚 Storytelling
 
-        <h3>My Fantasy Novel</h3>
+The book is one of my largest personal creative projects, and something I continue to develop alongside my technical work.
 
-        <p>
-            A personal project combining:
-        </p>
-
-        <ul>
-            <li>✍️ Creative writing</li>
-            <li>🌎 Worldbuilding</li>
-            <li>🧙 Character development</li>
-            <li>🎨 Visual design</li>
-            <li>📚 Storytelling</li>
-        </ul>
-
-        <p>
-            The book is one of my largest personal creative projects,
-            and something I continue to develop alongside my technical work.
-        </p>
-
-    </div>
-
-</div>
 ---
 
 ## 🎮 Game Development
