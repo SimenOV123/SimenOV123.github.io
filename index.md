@@ -17,7 +17,7 @@ One of my biggest passions outside of programming is **fantasy writing**.
 
 I'm currently working on my own fantasy novel, developing its world, characters, story, and visual identity.
 
-<img src="book-cover.png" alt="Book cover" class="book-cover">
+<img src="book-cover.png" alt="Book cover" style="width: 200px; height: auto;">
 
 ### My Fantasy Novel
 
