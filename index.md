@@ -5,21 +5,12 @@ title: Home
 
 # Hi, I'm Simen 👋
 
-I'm a developer and creative from Norway with a passion for **game development,
-writing, and visual design**.
+| <img src="selfie.jpg" alt="Photo of Simen" style="width: 250px; height: auto; border-radius: 10px;"> | I'm a developer and creative from Norway with a passion for **game development, writing, and visual design**.<br><br>I enjoy bringing ideas to life and creating things from the ground up — whether that's a game, a story, a website, or a visual concept.<br><br>I like combining **technical and creative skills** to build projects that are not only functional, but also have their own identity. |
+|:---:|:---|
 
-<img src="selfie.jpg"
-     alt="Photo of Simen"
-     style="width: 250px; height: auto; border-radius: 10px;">
+This portfolio showcases some of the projects I've worked on and the things I'm passionate about. It includes my **bachelor's project in game development**, my work as a **fantasy writer**, and my experience with **programming, visual design, and creative work**.
 
-I enjoy creating things from the ground up, whether that's a game, a story,
-a website, or a visual concept. I'm particularly interested in combining
-technical and creative skills to turn ideas into something people can
-experience.
-
-This portfolio is a collection of some of my work, interests, and experience,
-including my bachelor's project in game development and my ongoing work as a
-fantasy writer.
+I'm always looking to learn, create, and take on new projects.
 
 ---
 
