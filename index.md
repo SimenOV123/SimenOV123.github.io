@@ -8,8 +8,6 @@ title: Home
 I'm a developer and creative from Norway with a passion for **game development,
 writing, and visual design**.
 
-| | |
-|:---:|:---:|
 <img src="selfie.jpg"
      alt="Photo of Simen"
      style="width: 250px; height: auto; border-radius: 10px;">
