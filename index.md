@@ -10,7 +10,9 @@ writing, and visual design**.
 
 | | |
 |:---:|:---:|
-| <img src="selfie.jpg" alt="Photo of Simen" style="width: 250px; height: auto; border-radius: 10px;"> | <img src="pose.jpg" alt="Simen giving a thumbs up" style="width: 180px; height: auto; border-radius: 10px;"> |
+<img src="selfie.jpg"
+     alt="Photo of Simen"
+     style="width: 250px; height: auto; border-radius: 10px;">
 
 I enjoy creating things from the ground up, whether that's a game, a story,
 a website, or a visual concept. I'm particularly interested in combining
