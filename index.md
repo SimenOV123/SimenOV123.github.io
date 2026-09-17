@@ -13,9 +13,9 @@ I enjoy turning ideas into things people can experience — whether that's a gam
 
 ## 📖 Writing & Creative Work
 
-One of my biggest passions outside of programming is **fantasy writing**.
+One of my biggest passions is writing, more spesifically **fantasy writing**.
 
-Writing is one of my most important creative projects. I enjoy creating worlds, characters, stories, and visual identities.
+Writing is my hobby, and now represents itself as one of my most important creative projects. I enjoy creating worlds, characters, stories, and visual identities that intertvine and create something captivating.
 
 | **Bloodied Feather** | **Scorched Bone** |
 |:---:|:---:|
