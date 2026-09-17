@@ -26,29 +26,38 @@ Writing is one of my most important creative projects. I enjoy creating worlds, 
 
 ---
 
-<h2>🎮 Game Development</h2>
-
-<h3>🔫 FPS Game</h3>
+<h3>🔫 FPS Zombie Survival Game</h3>
 
 <img src="game-gif.gif"
-     alt="Gameplay footage from my FPS game"
+     alt="Gameplay footage from my FPS zombie survival game"
      style="width: 600px; max-width: 100%; height: auto;">
 
 <p>
-    A 3D first-person shooter developed as part of my bachelor's degree.
+    My <strong>bachelor's project</strong>, developed entirely by myself.
+    It is a <strong>3D first-person zombie shooter</strong> built around
+    wave-based survival.
 </p>
 
 <p>
-    The project involved programming gameplay systems, implementing game mechanics,
-    and developing the overall player experience.
+    Players must fight increasingly challenging waves of zombies and survive
+    for as long as possible. The goal is ultimately simple:
+    <strong>survive the longest</strong>.
+</p>
+
+<p>
+    As a solo project, I was responsible for the development of the game
+    from concept to implementation, including gameplay programming, enemy
+    behaviour, combat systems, player mechanics, and the overall gameplay loop.
 </p>
 
 <p>
     <strong>Focus:</strong>
     <code>Game Development</code> ·
-    <code>Programming</code> ·
+    <code>C#</code> ·
     <code>3D</code> ·
-    <code>Gameplay</code>
+    <code>FPS</code> ·
+    <code>Gameplay</code> ·
+    <code>Enemy AI</code>
 </p>
 
 ---
