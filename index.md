@@ -17,7 +17,7 @@ One of my biggest passions outside of programming is **fantasy writing**.
 
 Writing is one of my most important creative projects. I enjoy creating worlds, characters, stories, and visual identities.
 
-| **Bloodied Feather** | **Bloodied Feather — Book 2** |
+| **Bloodied Feather** | **Scorched Bone** |
 |:---:|:---:|
 | <img src="book-cover.png" alt="Bloodied Feather" style="width: 200px; height: auto;"> | <img src="closer.png" alt="Bloodied Feather sequel" style="width: 200px; height: auto;"> |
 | **Available now** | **Coming soon** |
