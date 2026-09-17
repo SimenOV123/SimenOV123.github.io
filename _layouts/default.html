@@ -1,1 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <title>{{ page.title | default: site.title }}</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    line-height: 1.7;
+    color: #222;
+    background: red;
+}
+
+        header {
+            padding: 70px 20px 50px;
+            text-align: center;
+            background: #ffffff;
+            border-bottom: 1px solid #e5e5e5;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 3rem;
+        }
+
+        header p {
+            margin: 10px auto 0;
+            max-width: 650px;
+            color: #666;
+            font-size: 1.1rem;
+        }
+
+        nav {
+            margin-top: 25px;
+        }
+
+        nav a {
+            margin: 0 10px;
+            color: #333;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        main {
+    width: min(1000px, calc(100% - 40px));
+    margin: 50px auto;
+    padding: 50px;
+    background: #ffffff;
+    border-radius: 12px;
+}
+
+        h2 {
+            margin-top: 50px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid #e5e5e5;
+        }
+
+        h3 {
+            margin-top: 30px;
+        }
+
+        a {
+            color: #3366cc;
+        }
+
+        code {
+            padding: 3px 6px;
+            background: #f0f0f0;
+            border-radius: 4px;
+        }
+
+        footer {
+            padding: 40px 20px;
+            text-align: center;
+            color: #777;
+        }
+
+        @media (max-width: 700px) {
+            header h1 {
+                font-size: 2.2rem;
+            }
+
+            main {
+                width: calc(100% - 20px);
+                padding: 25px;
+                margin: 20px auto;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>TEST - MY CUSTOM LAYOUT</h1>
+    <p>{{ site.description }}</p>
+
+    <nav>
+        <a href="#writing">Writing</a>
+        <a href="#games">Games</a>
+        <a href="#programming">Programming</a>
+        <a href="#creative">Creative Work</a>
+    </nav>
+</header>
+
+<main>
+    {{ content }}
+</main>
+
+<footer>
+    <p>© {{ site.time | date: "%Y" }} Simen</p>
+</footer>
+
+</body>
+</html>
