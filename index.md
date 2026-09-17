@@ -62,19 +62,6 @@ Writing is one of my most important creative projects. I enjoy creating worlds, 
 
 ---
 
-### 🕹️ 2D Game
-
-A 2D game developed during my studies.
-
-The project involved programming, game mechanics, and designing the overall gameplay experience.
-
-**Focus:**  
-`Game Development` · `Programming` · `2D` · `Game Design`
-
-[View project →](#)
-
----
-
 ## 💻 Programming
 
 Programming is one of my main technical interests.
