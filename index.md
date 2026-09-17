@@ -5,9 +5,17 @@ title: Home
 
 # Hi, I'm Simen 👋
 
-I'm a developer and creative based in Norway, with a background in **game development, programming, video editing, and creative writing**.
+I'm a developer and creative from Norway with a passion for **game development,
+writing, and visual design**.
 
-I enjoy turning ideas into things people can experience — whether that's a game, a piece of software, a video, or a story.
+I enjoy creating things from the ground up, whether that's a game, a story,
+a website, or a visual concept. I'm particularly interested in combining
+technical and creative skills to turn ideas into something people can
+experience.
+
+This portfolio is a collection of some of my work, interests, and experience,
+including my bachelor's project in game development and my ongoing work as a
+fantasy writer.
 
 ---
 
