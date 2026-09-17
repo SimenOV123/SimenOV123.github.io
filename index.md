@@ -64,25 +64,35 @@ Writing is one of my most important creative projects. I enjoy creating worlds, 
 
 ## 💻 Programming
 
-Programming is one of my main technical interests.
+I have knowledge and experience with **HTML, CSS, and JavaScript**, with an
+interest in using programming to create interactive and functional experiences.
 
-Through my studies and personal projects, I've gained experience developing software and games while learning how to turn ideas into working applications.
+My programming knowledge includes:
 
-### Technologies
+`HTML` · `CSS` · `JavaScript`
 
-`Python` · `C#` · `JavaScript` · `Git` · `Linux`
-
-You can find more of my projects on my [GitHub profile](https://github.com/simenov123).
+I've developed my programming skills through my studies and personal work,
+particularly in areas related to web development and interactive projects.
 
 ---
 
 ## 🎬 Video & Visual Work
 
-I've also worked with **video editing and visual content**.
+I also have experience with **video editing, visual design, and Adobe's
+creative software**.
 
-Video has given me another way to communicate ideas and stories, while also developing an interest in pacing, composition, presentation, and visual storytelling.
+I'm knowledgeable in working with Adobe's creative applications and have
+experience with areas such as:
 
-[View my video work →](#)
+- Video editing
+- Visual design
+- Image editing
+- Graphics and composition
+- Creative content production
+
+I also designed and created the covers for my fantasy novels myself,
+including the visual direction, composition, and final artwork. This has
+allowed me to combine my interest in storytelling with visual design.
 
 ---
 
