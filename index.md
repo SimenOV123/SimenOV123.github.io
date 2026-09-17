@@ -12,6 +12,11 @@ title: Home
 
 This portfolio showcases some of the projects I've worked on and the things I'm passionate about. It includes my **bachelor's project in game development**, my work as a **fantasy writer**, and my experience with **programming, visual design, and creative work**.
 
+### 🎓 Education
+
+**Bachelor's in Multimedia Technology and Design**  
+*University of Agder (Universitetet i Agder)*
+
 I'm always looking to learn, create, and take on new projects.
 
 ---
