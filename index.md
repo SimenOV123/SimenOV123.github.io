@@ -122,8 +122,11 @@ I'm particularly interested in:
 
 ---
 
-## 📫 Contact
+## 📬 Contact
 
-Feel free to get in touch or take a look at more of my work.
+| | |
+|:---:|:---:|
+| If you'd like to get in touch, feel free to reach out to me through GitHub or email. | <img src="pose.jpg" alt="Simen giving a thumbs up" style="width: 180px; height: auto; border-radius: 10px;"> |
 
 - [GitHub](https://github.com/simenov123)
+- Email: simen.overas@gmail.com
