@@ -19,7 +19,7 @@ Writing is one of my most important creative projects. I enjoy creating worlds, 
 
 | **Bloodied Feather** | **Scorched Bone** |
 |:---:|:---:|
-| <img src="book-cover.png" alt="Bloodied Feather" style="width: 200px; height: auto;"> | <img src="closer.png" alt="Bloodied Feather sequel" style="width: 200px; height: auto;"> |
+| <img src="book-cover.png" alt="Bloodied Feather" style="width: 250px; height: auto;"> | <img src="closer.png" alt="Bloodied Feather sequel" style="width: 250px; height: auto;"> |
 | **Available now** | **Coming soon** |
 | My completed fantasy novel. | The sequel to *Bloodied Feather*. |
 | [**Read the book →**](https://books2read.com/b/bloodied-feather) | |
