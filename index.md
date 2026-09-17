@@ -99,4 +99,3 @@ I'm particularly interested in:
 Feel free to get in touch or take a look at more of my work.
 
 - [GitHub](https://github.com/simenov123)
-- [LinkedIn](https://linkedin.com/in/YOUR-USERNAME)
