@@ -26,20 +26,30 @@ Writing is one of my most important creative projects. I enjoy creating worlds, 
 
 ---
 
-## 🎮 Game Development
+<h2>🎮 Game Development</h2>
 
-During my bachelor's degree, I worked on several game development projects, including **3D first-person shooters and 2D games**.
+<h3>🔫 FPS Game</h3>
 
-### 🔫 FPS Game
+<img src="game-gif.gif"
+     alt="Gameplay footage from my FPS game"
+     style="width: 600px; max-width: 100%; height: auto;">
 
-A 3D first-person shooter developed as part of my studies.
+<p>
+    A 3D first-person shooter developed as part of my bachelor's degree.
+</p>
 
-The project involved programming gameplay systems, implementing game mechanics, and developing the overall player experience.
+<p>
+    The project involved programming gameplay systems, implementing game mechanics,
+    and developing the overall player experience.
+</p>
 
-**Focus:**  
-`Game Development` · `Programming` · `3D` · `Gameplay`
-
-[View project →](#)
+<p>
+    <strong>Focus:</strong>
+    <code>Game Development</code> ·
+    <code>Programming</code> ·
+    <code>3D</code> ·
+    <code>Gameplay</code>
+</p>
 
 ---
 
