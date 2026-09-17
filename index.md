@@ -23,15 +23,15 @@ I'm always looking to learn, create, and take on new projects.
 
 ## 📖 Writing & Creative Work
 
-One of my biggest passions is writing, more spesifically **fantasy writing**.
+One of my biggest passions is **fantasy writing**.
 
-Writing is my hobby, and now represents itself as one of my most important creative projects. I enjoy creating worlds, characters, stories, and visual identities that intertvine and create something captivating.
+Writing is a hobby that has grown into one of my most important creative projects. I enjoy creating worlds, characters, stories, and visual identities that work together to create something memorable.
 
 | **Bloodied Feather** | **Scorched Bone** |
 |:---:|:---:|
-| <img src="book-cover.png" alt="Bloodied Feather" style="width: 250px; height: auto;"> | <img src="closer.png" alt="Bloodied Feather sequel" style="width: 250px; height: auto;"> |
+| <img src="book-cover.png" alt="Bloodied Feather book cover" style="width: 250px; height: auto; border-radius: 10px; border: 1px solid #ddd; box-shadow: 0 4px 12px rgba(0,0,0,0.12);"> | <img src="closer.png" alt="Scorched Bone book cover" style="width: 250px; height: auto; border-radius: 10px; border: 1px solid #ddd; box-shadow: 0 4px 12px rgba(0,0,0,0.12);"> |
 | **Available now** | **Coming soon** |
-| My completed fantasy novel. | The sequel to *Bloodied Feather*. |
+| My completed fantasy novel. | The upcoming sequel to *Bloodied Feather*. |
 | [**Read the book →**](https://books2read.com/b/bloodied-feather) | |
 
 ---
