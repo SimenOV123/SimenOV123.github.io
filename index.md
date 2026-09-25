@@ -32,7 +32,7 @@ Writing is a hobby that has grown into one of my most important creative project
 | <img src="book-cover.png" alt="Bloodied Feather book cover" style="width: 250px; height: auto; border-radius: 10px; border: 1px solid #ddd; box-shadow: 0 4px 12px rgba(0,0,0,0.12);"> | <img src="closer.png" alt="Scorched Bone book cover" style="width: 250px; height: auto; border-radius: 10px; border: 1px solid #ddd; box-shadow: 0 4px 12px rgba(0,0,0,0.12);"> |
 | **Available now** | **Coming soon** |
 | My completed fantasy novel. | The upcoming sequel to *Bloodied Feather*. |
-| [**Read the book →**](https://books2read.com/b/bloodied-feather) | |
+| [**Read the book →**](https://books2read.com/b/bloodied-feather) | [**Buy on Amazon →**](https://www.amazon.com/dp/B0HKSTPXH8) |
 
 ---
 
